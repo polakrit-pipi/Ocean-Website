@@ -14,7 +14,7 @@ function App() {
    <div>
     <ParallaxProvider>
       <Header/>
-      <Main />
+      <Main/>
       <Work/>
       <Project/>
       <Footer/>
