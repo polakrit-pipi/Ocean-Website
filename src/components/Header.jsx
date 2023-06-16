@@ -4,7 +4,7 @@ const Header = () => {
   return (
     <div>
         <h1 className="text-5xl font-bold ">
-    Cdlor makmak
+    poom
   </h1>
   </div>
   )
